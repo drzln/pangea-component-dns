@@ -18,7 +18,7 @@ def render(data)
     current_file_directory,
     '../',
     'resources',
-    'vpc.rb'
+    'dns.rb'
   )
   vpc_content = File.read(vpc_file_path)
   synth.load_synthesis_data(data)
