@@ -1,2 +1,2 @@
 # pangea-component-dns
-dns components for pangea
+DNS components for the Pangea framework
